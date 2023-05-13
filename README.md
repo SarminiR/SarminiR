@@ -1,6 +1,6 @@
 💻 Hey there! My name is Sarmini Ranjan.
 - 🌱 I’m interested in learning new programming languages to strive within the field of Computer Science!
-- 🌱 I’m currently learning C++, Python
+- 🌱 I’m currently learning C++, Python, HTML, CSS, and Javascript 
 - ✉️ How to reach me ... ranjansarmini@gmail.com
 
 <!---
